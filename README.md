@@ -6,15 +6,29 @@
   - `ASR` `AISHELL-1`
   - Value + DFSMN
 
+## Mon-1-2 Multi-Channel Speech Enhancement
+
+## Mon-1-3 Speech Processing in the Brain
+
 ## Mon-1-4 Speech Signal Representation
 
+- [x] Wang Dai, Jinsong Zhang, Yingming Gao, Wei Wei, Dengfeng Ke, Binghuai Lin, Yanlu Xie. *Formant Tracking Using Dilated Convolutional Networks Through Dense Connection with Gating Mechanism.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-1-4-3.pdf)]
+
 ## Mon-1-5 Speech Synthesis: Neural Waveform Generation I
+
+## Mon-SS-1-6 Automatic Speech Recognition for Non-Native Childrens Speech
 
 ## Mon-1-7 Speaker Diarization
 
 ## Mon-1-8 Noise Robust and Distant Speech Recognition
 
+## Mon-1-9 Speech in Multimodality (MULTIMODAL)
+
+## Mon-1-10 Speech, Language, and Multimodal Resources
+
 ## Mon-1-11 Language Recognition
+
+## Mon-S&T-1-1 Speech Processing and Analysis
 
 ## Mon-2-1 Speech Emotion Recognition I (SER I)
 
