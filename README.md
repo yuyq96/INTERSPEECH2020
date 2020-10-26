@@ -37,7 +37,14 @@
 ## Mon-2-10 DNN Architectures for Speaker Recognition
 
 - [x] Ya-Qi Yu, Wu-Jun Li. *Densely Connected Time Delay Neural Network for Speaker Verification.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-10-2.pdf)]
-  - `SI-SV` `VoxCeleb` `Densely Connected TDNN (D-TDNN)` `Statistics-and-Selection (SS)`
+  - `SI-SV` `VoxCeleb` `Dense Connection` `Multi-brach`
+  - Densely Connected TDNN (D-TDNN)
+  - Statistics-and-Selection (SS)
+
+- [x] Siqi Zheng, Hongbin Suo, Yun Lei. *Phonetically-Aware Coupled Network For Short Duration Text-independent Speaker Verification.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-10-3.pdf)]
+  - `SI-SV` `Short Duration` `NIST SRE` `VoxCeleb` `Phonetic Information` `Triplet Loss`
+  - Phonetically-Aware Coupled Network (PacNet)
+  - 'Triplet loss training scheme is more fitting than softmax loss system for normalizing phonetic contents.'
 
 ## Mon-2-11 ASR Model Training and Strategies
 
