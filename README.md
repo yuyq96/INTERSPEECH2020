@@ -55,6 +55,10 @@
     - Q: Global embedding vector (LSTM-based weights)
     - KV: Hidden feature vector
 
+- [x] Yanfeng Wu, Chenkai Guo, Hongcan Gao, Xiaolei Hou, Jing Xu. *Vector-based attentive pooling for text-independent speaker verification.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-10-5.pdf)]
+  - `SI-SV` `VoxCeleb` `SITW`
+  - 'Most attentive pooling methods are not more effective than statistics pooling.'
+
 ## Mon-2-11 ASR Model Training and Strategies
 
 ## Mon-3-1 Cross/Multi-Lingual and Code-Switched Speech Recognition
