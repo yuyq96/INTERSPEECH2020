@@ -120,6 +120,8 @@
 
 ## Mon-3-11 Targeted Source Separation  
 
-- [ ] Meng Ge, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li. *SpEx+: A Complete Time Domain Speaker Extraction Network.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-3-11-1.pdf)]
+- [x] Meng Ge, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li. *SpEx+: A Complete Time Domain Speaker Extraction Network.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-3-11-1.pdf)]
+  - `WSJ0-2mix`
+  - Replace frequency-domain speaker encoder with time-domain one to alleviate mismatch.
 
 - [x] Tingle Li, Qingjian Lin, Yuanyuan Bao, Ming Li. *Atss-Net: Target Speaker Separation via Attention-based Neural Network.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-3-11-2.pdf)]
