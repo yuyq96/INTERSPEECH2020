@@ -2,7 +2,11 @@
 
 ## Mon-1-1 ASR Neural Network Architectures I
 
-- [ ] Jinyu Li, Yu Wu, Yashesh Gaur, Chengyi Wang, Rui Zhao, Shujie Liu. *On the Comparison of Popular End-to-End Models for Large Scale Speech Recognition.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2846.html)]
+- [x] Jinyu Li, Yu Wu, Yashesh Gaur, Chengyi Wang, Rui Zhao, Shujie Liu. *On the Comparison of Popular End-to-End Models for Large Scale Speech Recognition.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2846.html)]
+  - `ASR` `RNN-T` `RNN-A` `Transformer`
+  - 65,000 Hours
+  - Non-streaming: Transformer > RNN-A >> RNN-T
+  - Streaming: Transformer > RNN-T (Custom LSTM, CE init) > RNN-A
 
 - [x] Zhifu Gao, ShiLiang Zhang, Ming Lei, Ian McLoughlin. *SAN-M: Memory Equipped Self-Attention for End-to-End Speech Recognition.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2471.html)]
   - `ASR` `AISHELL-1`
