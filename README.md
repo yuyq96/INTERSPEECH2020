@@ -183,3 +183,12 @@
 - [x] Leyuan Qu, Cornelius Weber, Stefan Wermter. *Multimodal Target Speech Separation with Voice and Face References.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1697.html)]
   - `LRS3` `Face Embedding`
   - Incorporate face embedding extracted from a *single* face profile into speech separation.
+
+- [x] Zining Zhang, Bingsheng He, Zhenjie Zhang. *X-TaSNet: Robust and Accurate Time-Domain Speaker Extraction Network.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1706.html)]
+  - `LibriSpeech` `Speaker Presence`
+  - Loss
+    - \+ SI-SNR for mixture signal of distortion speakers
+    - \+ Penalty for remaining signal under the absent speaker condition
+  - Metric
+    - NSR (negative SI-SNRi rate) for distortion speaker
+    - NER (negative enery rate) for absent speaker
