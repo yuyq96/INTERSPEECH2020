@@ -198,5 +198,13 @@
   - `LRS2` `Audio-Visual` `Speech Recognition`
   - Robust phonetic embedding conditioned on visual embedding.
 
+- [ ] Yunzhe Hao, Jiaming Xu, Jing Shi, Peng Zhang, Lei Qin, Bo Xu. *A Unified Framework for Low-Latency Speaker Extraction in Cocktail Party Environments.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2085.html)]
+
 - [x] Jianshu Zhao, Shengzhou Gao, Takahiro Shinozaki. *Time-Domain Target-Speaker Speech Separation with Waveform-Based Speaker Embedding.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2108.html)]
   - `WSJ0-2mix` `WSJ0-3mix` `LibriSpeech`
+
+- [ ] Tsubasa Ochiai, Marc Delcroix, Yuma Koizumi, Hiroaki Ito, Keisuke Kinoshita, Shoko Araki . *Listen to What You Want: Neural Network-Based Universal Sound Selector.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2210.html)]
+
+- [ ] Masahiro Yasuda, Yasunori Ohishi, Yuma Koizumi, Noboru Harada. *Crossmodal Sound Retrieval Based on Specific Target Co-Occurrence Denoted with Weak Labels.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2445.html)]
+
+- [ ] Jiahao Xu, Kun Hu, Chang Xu, Duc Chung Tran, Zhiyong Wang. *Speaker-Aware Monaural Speech Separation.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2483.html)]
