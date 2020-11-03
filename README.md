@@ -92,9 +92,9 @@
 
 ## Mon-2-10 DNN Architectures for Speaker Recognition
 
-- [ ] Shaojin Ding, Tianlong Chen, Xinyu Gong, Weiwei Zha, Zhangyang Wang. *AutoSpeech: Neural Architecture Search for Speaker Recognition.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-10-1.pdf)]
+- [ ] Shaojin Ding, Tianlong Chen, Xinyu Gong, Weiwei Zha, Zhangyang Wang. *AutoSpeech: Neural Architecture Search for Speaker Recognition.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1258.html)]
 
-- [x] Ya-Qi Yu, Wu-Jun Li. *Densely Connected Time Delay Neural Network for Speaker Verification.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-10-2.pdf)]
+- [x] Ya-Qi Yu, Wu-Jun Li. *Densely Connected Time Delay Neural Network for Speaker Verification.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1275.html)]
   - `SI-SV` `VoxCeleb` `Dense Connection` `Multi-brach`
   - Densely Connected TDNN (D-TDNN)
   - Statistics-and-Selection (attention-based weights)
@@ -102,32 +102,32 @@
     - K: Global embedding (equal weights)
     - V: Hidden features
 
-- [x] Siqi Zheng, Hongbin Suo, Yun Lei. *Phonetically-Aware Coupled Network For Short Duration Text-independent Speaker Verification.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-10-3.pdf)]
+- [x] Siqi Zheng, Hongbin Suo, Yun Lei. *Phonetically-Aware Coupled Network For Short Duration Text-independent Speaker Verification.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1306.html)]
   - `SI-SV` `Short Duration` `NIST SRE` `VoxCeleb` `Phonetic Information` `Triplet Loss`
   - Phonetically-Aware Coupled Network (PacNet)
   - 'Triplet loss training scheme is more fitting than softmax loss system for normalizing phonetic contents.'
 
-- [x] Myunghun Jung, Youngmoon Jung, Jahyun Goo, Hoi Rin Kim. *Multi-Task Network for Noise-Robust Keyword Spotting and Speaker Verification using CTC-based Soft VAD and Global Query Attention.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-10-4.pdf)]
+- [x] Myunghun Jung, Youngmoon Jung, Jahyun Goo, Hoi Rin Kim. *Multi-Task Network for Noise-Robust Keyword Spotting and Speaker Verification using CTC-based Soft VAD and Global Query Attention.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1420.html)]
   - `SI-SV` `KWS` `Phonetic Information`
   - Global Attention (attention-based weights)
     - Q: Global embedding (LSTM-based weights)
     - KV: Hidden features
 
-- [x] Yanfeng Wu, Chenkai Guo, Hongcan Gao, Xiaolei Hou, Jing Xu. *Vector-based attentive pooling for text-independent speaker verification.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-10-5.pdf)]
+- [x] Yanfeng Wu, Chenkai Guo, Hongcan Gao, Xiaolei Hou, Jing Xu. *Vector-based attentive pooling for text-independent speaker verification.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1422.html)]
   - `SI-SV` `VoxCeleb` `SITW`
   - 'Most attentive pooling methods are not more effective than statistics pooling.'
 
-- [x] Pooyan Safari, Miquel India, Javier Hernando. *Self-Attention Encoding and Pooling for Speaker Recognition.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-10-6.pdf)]
+- [x] Pooyan Safari, Miquel India, Javier Hernando. *Self-Attention Encoding and Pooling for Speaker Recognition.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1446.html)]
   - `SI-SV` `VoxCeleb` `Self-Attention` `Attentive Pooling`
 
-- [x] Ruiteng Zhang, Jianguo Wei, Wenhuan Lu, Longbiao Wang, Meng Liu, Lin Zhang, Jiayu Jin, Junhai Xu. *ARET: Aggregated Residual Extended Time-delay Neural Networks for Speaker Verification.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-10-7.pdf)]
+- [x] Ruiteng Zhang, Jianguo Wei, Wenhuan Lu, Longbiao Wang, Meng Liu, Lin Zhang, Jiayu Jin, Junhai Xu. *ARET: Aggregated Residual Extended Time-delay Neural Networks for Speaker Verification.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1626.html)]
   - `SI-SV` `VoxCeleb` `Residual Connection` `Grouped Conv`
 
-- [x] Hanyi Zhang, Longbiao Wang, Yunchun Zhang, Meng Liu, Kong Aik Lee, Jianguo Wei. *Adversarial Separation Network for Speaker Recognition.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-10-8.pdf)]
+- [x] Hanyi Zhang, Longbiao Wang, Yunchun Zhang, Meng Liu, Kong Aik Lee, Jianguo Wei. *Adversarial Separation Network for Speaker Recognition.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1966.html)]
   - `SI-SV` `VCTK` `Adversarial Attack` 
   - Reconstruct adversarial perturbations
 
-- [x] Jingyu Li, Tan Lee. *Text-Independent Speaker Verification with Dual Attention Network.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-10-9.pdf)]
+- [x] Jingyu Li, Tan Lee. *Text-Independent Speaker Verification with Dual Attention Network.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2031.html)]
   - `SI-SV` `VoxCeleb` `Dual Attention`
   - Global Attention (attention-based weights)
     - Q: Global embedding (equal weights)
@@ -138,7 +138,7 @@
     - K: Hidden features (deeper layers)
     - V: Hidden features
 
-- [ ] Xiaoyang Qu, Jianzong Wang, Jing Xiao. *Evolutionary Algorithm Enhanced Neural Architecture Search for Text-Independent Speaker Verification.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-10-10.pdf)]
+- [ ] Xiaoyang Qu, Jianzong Wang, Jing Xiao. *Evolutionary Algorithm Enhanced Neural Architecture Search for Text-Independent Speaker Verification.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/3057.html)]
 
 ## Mon-2-11 ASR Model Training and Strategies
 
@@ -193,3 +193,6 @@
   - Metric
     - NSR (negative SI-SNRi rate) for distortion speaker
     - NER (negative enery rate) for absent speaker
+
+- [x] Jianshu Zhao, Shengzhou Gao, Takahiro Shinozaki. *Time-Domain Target-Speaker Speech Separation with Waveform-Based Speaker Embedding.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2108.html)]
+  - `WSJ0-2mix` `WSJ0-3mix` `LibriSpeech`
