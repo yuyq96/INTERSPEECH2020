@@ -194,5 +194,9 @@
     - NSR (negative SI-SNRi rate) for distortion speaker
     - NER (negative enery rate) for absent speaker
 
+- [x] Chenda Li, Yanmin Qian. *Listen, Watch and Understand at the Cocktail Party: Audio-Visual-Contextual Speech Separation.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2028.html)]
+  - `LRS2` `Audio-Visual` `Speech Recognition`
+  - Robust phonetic embedding conditioned on visual embedding.
+
 - [x] Jianshu Zhao, Shengzhou Gao, Takahiro Shinozaki. *Time-Domain Target-Speaker Speech Separation with Waveform-Based Speaker Embedding.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2108.html)]
   - `WSJ0-2mix` `WSJ0-3mix` `LibriSpeech`
