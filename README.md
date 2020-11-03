@@ -185,7 +185,8 @@
   - Incorporate face embedding extracted from a *single* face profile into speech separation.
 
 - [x] Zining Zhang, Bingsheng He, Zhenjie Zhang. *X-TaSNet: Robust and Accurate Time-Domain Speaker Extraction Network.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1706.html)]
-  - `LibriSpeech` `Speaker Presence`
+  - `LibriSpeech` `Alternative Training` `Speaker Presence`
+  - Alternative training: A<del>BC</del> + <del>A</del>B<del>C</del> + <del>AB</del>C
   - Loss
     - \+ SI-SNR for mixture signal of distortion speakers
     - \+ Penalty for remaining signal under the absent speaker condition
