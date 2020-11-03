@@ -174,8 +174,12 @@
 
 ## Mon-3-11 Targeted Source Separation  
 
-- [x] Meng Ge, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li. *SpEx+: A Complete Time Domain Speaker Extraction Network.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-3-11-1.pdf)]
+- [x] Meng Ge, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li. *SpEx+: A Complete Time Domain Speaker Extraction Network.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1397.html)]
   - `WSJ0-2mix`
   - Replace frequency-domain speaker encoder with time-domain one to alleviate mismatch.
 
-- [x] Tingle Li, Qingjian Lin, Yuanyuan Bao, Ming Li. *Atss-Net: Target Speaker Separation via Attention-based Neural Network.* [[INTERSPEECH 2020](http://www.interspeech2020.org/uploadfile/pdf/Mon-3-11-2.pdf)]
+- [x] Tingle Li, Qingjian Lin, Yuanyuan Bao, Ming Li. *Atss-Net: Target Speaker Separation via Attention-based Neural Network.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1436.html)]
+
+- [x] Leyuan Qu, Cornelius Weber, Stefan Wermter. *Multimodal Target Speech Separation with Voice and Face References.* [[INTERSPEECH 2020](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1697.html)]
+  - `LRS3` `Face Embedding`
+  - Incorporate face embedding extracted from a *single* face profile into speech separation.
